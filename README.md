@@ -45,7 +45,9 @@ Beyond mobile development, I'm exploring **full-stack development with the MERN 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**EventsHub**](https://events-hub-kva.netlify.app/) | EventsHub - The Future of Events is Here. | ,React+Vite, Node.js, Express, Render, MongoDB, Cloudinary |
+| [**EventsHub**](https://events-hub-kva.netlify.app/) | <b>EventsHub</b> - The Future of Events is Here. | React+Vite, Node.js, Express, Render, MongoDB, Cloudinary |
+| [**Backend Projects**](https://github.com/kushalvachar2006/backend_projects) | <b>Weather App</b> - Used to fetch weather details of respective city <br> <b>Image_Classification</b> - A basic model used to predict the object <br> <b>OCR_Tessearct (Web)</b> - A OCR project, to extract text from the file uploaded. | Android Studio, Java, Tensorflow, Python, WeatherAPI, Tesseract.js |
+| [**RealTime-ChatApp**](https://realtime-chatapp-kva.netlify.app/) | <b>Realtime-ChatApp</b> - A modern, responsive real-time chat application built with the MERN stack | MERN, Socket.io, React, MongoDB |
 
 ---
 
