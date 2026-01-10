@@ -60,7 +60,7 @@ Beyond mobile development, I'm exploring **full-stack development with the MERN 
 ---
 
 <p align="center">
-  <i>"Building software that solves real problems, one line of code at a time."</i>
+  <i>"All Big Things starts from Small Beginnings..."</i>
 </p>
 
 ---
