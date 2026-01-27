@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+Myself+Kushal+V+Achar;Android+Developer;Full-Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&cursor=true&cursorChar=|&center=true&vCenter=true&width=800&lines=Hey%2C+Myself+Kushal+V+Achar+!;Building+Software+Solutions;Android+Developer;Problem+Solver;Full-Stack+Developer;Exploring+Cloud+Technologies" alt="Typing SVG" /> 
 </p>
 
 <p align="center">
-  Engineering Student · Android Developer · Full-Stack Enthusiast · Problem Solver
+  Building Software Solutions · Android Developer · Problem Solver (DSA in Java) · Full-Stack MERN · Cloud Technology Enthusiast
 </p>
+
 
 <p align="center">
   <a href="mailto:kushalv1306@gmail.com">
@@ -22,9 +23,9 @@
 
 ## 🚀 About Me
 
-I'm a software developer who enjoys building solid, real-world products, with a primary focus on **Android development**. I like breaking down problems, writing clean code, and strengthening my fundamentals through regular **DSA practice in Java**. 
+I am a **software developer** who enjoys building practical and reliable software solutions. I work as an **Android developer** and focus on writing clean and maintainable code. I have strong **problem-solving** skills and a good understanding of data structures using Java, which helps me build efficient applications.
 
-Beyond mobile development, I'm exploring **full-stack development with the MERN stack** and learning how **AI and ML in Python** are used in modern products. I'm also curious about **cloud and blockchain technologies** and how they help build scalable and secure systems.
+I am currently learning **full-stack development** using the MERN stack. I am also passionate about **AI and machine learning** and use Python to explore modern technologies. In addition, I am interested in **cloud technologies** and **blockchain** to build secure and scalable systems.
 
 ---
 
