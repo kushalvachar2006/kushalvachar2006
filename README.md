@@ -1,10 +1,12 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&cursor=true&cursorChar=|&center=true&vCenter=true&width=800&lines=Hey%2C+Myself+Kushal+V+Achar+!;Building+Software+Solutions;Android+Developer;Problem+Solver;Full-Stack+Developer;Exploring+Cloud+Technologies" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&cursor=true&cursorChar=|&center=true&vCenter=true&width=800&lines=Hey%2C+Myself+Kushal+V+Achar+!;Cybersecurity+%7C+Blockchain+Enthusiast;Android+Developer;Problem+Solver+(DSA+in+Java);Building+Secure+Software+Solutions" alt="Typing SVG" /> 
 </p>
 
+
 <p align="center">
-  Building Software Solutions · Android Developer · Problem Solver (DSA in Java) · Full-Stack MERN · Cloud Technology Enthusiast
+  Cybersecurity · Blockchain · Problem Solver (DSA in Java) · Android Developer · Secure Software Solutions
 </p>
+
 
 
 <p align="center">
@@ -23,9 +25,10 @@
 
 ## 🚀 About Me
 
-I am a **software developer** who enjoys building practical and reliable software solutions. I work as an **Android developer** and focus on writing clean and maintainable code. I have strong **problem-solving** skills and a good understanding of data structures using Java, which helps me build efficient applications.
+**Software Developer** with experience in **Android development**, focused on writing clean, maintainable, and efficient code.
+Currently specializing in **Cybersecurity** and **Blockchain**, with a strong interest in secure system design and decentralized technologies. Actively strengthening **Data Structures and Algorithms** through LeetCode using Java.
 
-I am currently learning **full-stack development** using the MERN stack. I am also passionate about **AI and machine learning** and use Python to explore modern technologies. In addition, I am interested in **cloud technologies** and **blockchain** to build secure and scalable systems.
+Passionate about building reliable, secure, and scalable software systems.
 
 ---
 
