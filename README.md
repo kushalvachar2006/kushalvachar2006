@@ -1,10 +1,10 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&cursor=true&cursorChar=|&center=true&vCenter=true&width=800&lines=Hey%2C+Myself+Kushal+V+Achar+!;Cybersecurity+%7C+Blockchain+Enthusiast;Android+Developer;Problem+Solver+(DSA+in+Java);Building+Secure+Software+Solutions" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&cursor=true&cursorChar=|&center=true&vCenter=true&width=800&lines=Hey%2C+Myself+Kushal+V+Achar+!;Cybersecurity+%7C+Blockchain+Enthusiast;Android+Developer;Problem+Solver+(DSA+in+Java);MERN;Building+Secure+Software+Solutions" alt="Typing SVG" /> 
 </p>
 
 
 <p align="center">
-  Cybersecurity · Blockchain · Problem Solver (DSA in Java) · Android Developer · Secure Software Solutions
+  Cybersecurity · Blockchain · Problem Solver (DSA in Java) · Android Developer · MERN · Secure Software Solutions
 </p>
 
 
@@ -49,6 +49,7 @@ Passionate about building reliable, secure, and scalable software systems.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [**VEXT_APP**](https://github.com/kushalvachar2006/VEXT_APP) | <b>VEXT APP</b> - A fully working app with features of messaging and calling | Android Studio, Java, Gradle, Firebase |
 | [**EventsHub**](https://events-hub-kva.netlify.app/) | <b>EventsHub</b> - The Future of Events is Here. | React+Vite, Node.js, Express, Render, MongoDB, Cloudinary |
 | [**Backend Projects**](https://github.com/kushalvachar2006/backend_projects) | <b>Weather App</b> - Used to fetch weather details of respective city <br> <b>Image_Classification</b> - A basic model used to predict the object <br> <b>OCR_Tessearct (Web)</b> - A OCR project, to extract text from the file uploaded. | Android Studio, Java, Tensorflow, Python, WeatherAPI, Tesseract.js |
 | [**RealTime-ChatApp**](https://realtime-chatapp-kva.netlify.app/) | <b>Realtime-ChatApp</b> - A modern, responsive real-time chat application built with the MERN stack | MERN, Socket.io, React, MongoDB |
