@@ -49,7 +49,7 @@ Passionate about building reliable, secure, and scalable software systems.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**VEXT_APP**](https://github.com/kushalvachar2006/VEXT_APP) | <b>VEXT APP</b> - A fully working app with features of messaging and calling | Android Studio, Java, Gradle, Firebase |
+| [**VEXT_APP**](https://github.com/kushalvachar2006/VEXT_APP) | <b>VEXT APP</b> - A fully working app with features of messaging and calling | Android Studio, Java, Gradle, Firebase, WebRTC (for calling feature) |
 | [**EventsHub**](https://events-hub-kva.netlify.app/) | <b>EventsHub</b> - The Future of Events is Here. | React+Vite, Node.js, Express, Render, MongoDB, Cloudinary |
 | [**Backend Projects**](https://github.com/kushalvachar2006/backend_projects) | <b>Weather App</b> - Used to fetch weather details of respective city <br> <b>Image_Classification</b> - A basic model used to predict the object <br> <b>OCR_Tessearct (Web)</b> - A OCR project, to extract text from the file uploaded. | Android Studio, Java, Tensorflow, Python, WeatherAPI, Tesseract.js |
 | [**RealTime-ChatApp**](https://realtime-chatapp-kva.netlify.app/) | <b>Realtime-ChatApp</b> - A modern, responsive real-time chat application built with the MERN stack | MERN, Socket.io, React, MongoDB |
