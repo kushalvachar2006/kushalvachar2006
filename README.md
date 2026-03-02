@@ -41,7 +41,7 @@ Passionate about building reliable, secure, and scalable software systems.
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 
 ### Tools & Technologies
-- Git | GitHub | MERN | REST APIs | Cloud | Android Studio | Firebase | Python
+- Git | GitHub | Docker | MERN | REST APIs | Cloud | Android Studio | Firebase | Python
 
 ---
 
