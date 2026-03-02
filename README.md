@@ -60,7 +60,7 @@ Passionate about building reliable, secure, and scalable software systems.
 
 - 📧 **Email:** [kushalv1306@gmail.com](mailto:kushalv1306@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/kushal-v-achar-796049317](https://www.linkedin.com/in/kushal-v-achar-796049317/)
-- 🌐 **Portfolio:** Coming soon!
+- 🌐 **Portfolio:** [KVA's Portfolio](https://kushal-v-achar-portfolio.netlify.app/)
 
 ---
 
