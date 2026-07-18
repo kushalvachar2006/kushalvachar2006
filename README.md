@@ -50,7 +50,7 @@ Passionate about building reliable, secure, and scalable software systems.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**PermifyAI**](https://github.com/kushalvachar2006/PermifyAI) | <b>PermifyAI</b> - AI-powered Android app that analyzes app permissions, detects privacy risks, and explains them in simple human language. | Android studio, Java, Gradle, SQLite, GeminiAI |
+| [**ShieldSMS**](https://github.com/kushalvachar2006/ShieldSMS) | <b>ShieldSMS</b> - A working messaging app that automatically hides the body of sensitive incoming texts — OTPs, bank alerts — until you unlock them. | Android studio, Java, Gradle, AES-256, RoomDB |
 | [**NetSecAI**](https://github.com/kushalvachar2006/NetSecAI) | <b>NetSecAI</b> - A comprehensive cybersecurity analysis suite leveraging real-time backend intelligence and Google Gemini AI to detect, analyze, and explain network and web threats in plain language. | Python, FastAPI, React, GeminiAI |
 | [**VEXT_APP**](https://github.com/kushalvachar2006/VEXT_APP) | <b>VEXT APP</b> - A fully working app with features of messaging and calling | Android Studio, Java, Gradle, Firebase, WebRTC (for calling feature) |
 | [**EventsHub**](https://events-hub-kva.netlify.app/) | <b>EventsHub</b> - The Future of Events is Here. | React+Vite, Node.js, Express, Render, MongoDB, Cloudinary |
