@@ -1,10 +1,10 @@
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&cursor=true&cursorChar=|&center=true&vCenter=true&width=800&lines=Hey%2C+Myself+Kushal+V+Achar+!;Cybersecurity+%7C+Blockchain+Enthusiast;Android+Developer;Problem+Solver+(DSA+in+Java);MERN;Building+Secure+Software+Solutions" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&cursor=true&cursorChar=|&center=true&vCenter=true&width=800&lines=Hey%2C+Myself+Kushal+V+Achar+!;Cybersecurity+%7C+GenAI+Enthusiast;Android+Developer;Problem+Solver+(DSA+in+Java);MERN;Building+Secure+Software+Solutions" alt="Typing SVG" /> 
 </p>
 
 
 <p align="center">
-  Cybersecurity · Blockchain · Problem Solver (DSA in Java) · Android Developer · MERN · Secure Software Solutions
+  Cybersecurity · GenAI · Problem Solver (DSA in Java) · Android Developer · MERN · Secure Software Solutions
 </p>
 
 
@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 **Software Developer** with experience in **Android development**, focused on writing clean, maintainable, and efficient code.
-Currently specializing in **Cybersecurity** and **Blockchain**, with a strong interest in secure system design and decentralized technologies. Actively strengthening **Data Structures and Algorithms** through LeetCode using Java.
+Currently specializing in **Cybersecurity** and **GenAI tools**, with a strong interest in secure system design and decentralized technologies. Actively strengthening **Data Structures and Algorithms** through LeetCode using Java.
 
 Passionate about building reliable, secure, and scalable software systems.
 
@@ -42,7 +42,7 @@ Passionate about building reliable, secure, and scalable software systems.
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 
 ### Tools & Technologies
-- Git | GitHub | Docker | MERN | REST APIs | Cloud | Android Studio | Firebase | Python
+- Git | GitHub | Docker | MERN | REST APIs | Cloud | Android Studio | Firebase | Python | LangChain | LangGraph | AgenticAI
 
 ---
 
@@ -50,6 +50,7 @@ Passionate about building reliable, secure, and scalable software systems.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [**Semantic Search Engine**](https://github.com/kushalvachar2006/Semantic_Search_Engine_RAG) | <b>Semantic Search Engine</b> - A working RAG-based document search application that allows users to upload PDFs, ask natural-language questions, retrieve relevant document context using semantic similarity, and generate context-aware answers using Google Gemini. | Python, Streamlit, LangChain, Google Gemini, ChromaDB, PyPDF |
 | [**ShieldSMS**](https://github.com/kushalvachar2006/ShieldSMS) | <b>ShieldSMS</b> - A working messaging app that automatically hides the body of sensitive incoming texts — OTPs, bank alerts — until you unlock them. | Android studio, Java, Gradle, AES-256, RoomDB |
 | [**NetSecAI**](https://github.com/kushalvachar2006/NetSecAI) | <b>NetSecAI</b> - A comprehensive cybersecurity analysis suite leveraging real-time backend intelligence and Google Gemini AI to detect, analyze, and explain network and web threats in plain language. | Python, FastAPI, React, GeminiAI |
 | [**VEXT_APP**](https://github.com/kushalvachar2006/VEXT_APP) | <b>VEXT APP</b> - A fully working app with features of messaging and calling | Android Studio, Java, Gradle, Firebase, WebRTC (for calling feature) |
